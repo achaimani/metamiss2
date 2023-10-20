@@ -1,0 +1,10 @@
+v 3
+d metamiss2: A command that allows the use of informative missingness parameters in pairwise and network meta-analysis
+d Program by Anna Chaimani and Ian White
+d Version 1.2.8
+d Distribution-Date: 20181001
+
+f metamiss2.ado
+f metamiss2_corr_example.ado
+
+f metamiss2.sthlp
