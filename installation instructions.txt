@@ -1,0 +1,7 @@
+1. Install the GitHub package (if not previously installed) by typing in Stata:
+
+net install github, from("https://haghish.github.io/github/")
+
+2. Then type:
+
+github install achaimani/metamiss2
