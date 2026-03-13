@@ -1,0 +1,3 @@
+v 2
+d Programs for missing data in meta-analysis
+d the metamiss2 command - Accounting for missing outcome data in meta-analysis (Authors: Anna Chaimani & Ian White)
